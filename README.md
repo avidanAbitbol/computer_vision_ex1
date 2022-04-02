@@ -31,6 +31,13 @@ i run some personal photos to test the function's i build:
 ## Histogram equalization in gray(right side) and RGB(left side)
 
 ![image](https://user-images.githubusercontent.com/80645472/161398367-e082b14b-22c4-40ec-893d-ac3f0033c751.png)
+##Optimal image quantization
+
+![image](https://user-images.githubusercontent.com/80645472/161399404-53b52dc7-25e0-459c-8234-3ecf5425280f.png)
+
+![image](https://user-images.githubusercontent.com/80645472/161399462-74915d4d-f177-4223-894b-60e254435652.png)
+
+
 ## Gamma Correction
 
 ![image](https://user-images.githubusercontent.com/80645472/161398406-6cef299c-0b47-4f97-990d-0f3a02723f51.png)
