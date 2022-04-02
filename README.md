@@ -42,4 +42,8 @@ i run some personal photos to test the function's i build:
 
 ![image](https://user-images.githubusercontent.com/80645472/161398406-6cef299c-0b47-4f97-990d-0f3a02723f51.png)
 
-This project was done on "spyder" "python 3.9" version.
+## list of files in this project:
+
+![image](https://user-images.githubusercontent.com/80645472/161399767-c0b229b5-3dc8-4a38-aa17-02f117e4d31b.png)
+
+# *This project was done on "spyder" "python 3.9" version.*
